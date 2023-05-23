@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/Quiz_2/exercise-coordinate-reference-systems.html",
+      "/posts/Quiz_3/exercise-interactive-maps.html",
+      "/posts/Quiz_4/exercise-manipulating-geospatial-data.html",
+      "/posts/Quiz_5/exercise-proximity-analysis.html",
+      "/posts/Quiz_1/exercise-your-first-map.html",
+      "/posts/c_increase_loop_speed/week_1c_increase_loop_speed.html",
+      "/posts/a_numpy/week_1a_numpy.html",
+      "/posts/b_pandas/week_1b_pandas.html",
+      "/posts/new-posting/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]
